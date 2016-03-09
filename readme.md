@@ -5,7 +5,7 @@ Java implementation of Dr.Dobb's [Naive Bayes Classifier](http://www.drdobbs.com
 # example
 
 ```java
-import catalinc.tools.text_classifier.NaiveBayesClassifier;
+import catalinc.tools.text_classifier.NaiveBayesianClassifier;
 
 public class Main {
 

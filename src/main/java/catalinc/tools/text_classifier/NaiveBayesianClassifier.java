@@ -11,12 +11,12 @@ import java.util.regex.Pattern;
 /**
  * Java version of <a href="http://www.drdobbs.com/architecture-and-design/naive-bayesian-text-classification/184406064">Naive Text Classifier</a>.
  */
-public class NaiveBayesClassifier {
+public class NaiveBayesianClassifier {
     private Map<String, Category> categories;
 
     private static final Pattern WORD_PATTERN = Pattern.compile("[a-zA-Z]+");
 
-    public NaiveBayesClassifier() {
+    public NaiveBayesianClassifier() {
         this.categories = new HashMap<>();
     }
 

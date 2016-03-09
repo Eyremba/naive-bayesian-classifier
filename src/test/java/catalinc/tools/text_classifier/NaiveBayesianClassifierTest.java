@@ -10,13 +10,13 @@ import java.nio.file.Paths;
 
 import static org.junit.Assert.assertEquals;
 
-public class NaiveBayesClassifierTest {
+public class NaiveBayesianClassifierTest {
 
-    private NaiveBayesClassifier classifier;
+    private NaiveBayesianClassifier classifier;
 
     @Before
     public void beforeTest() {
-        classifier = new NaiveBayesClassifier();
+        classifier = new NaiveBayesianClassifier();
     }
 
     @Test
