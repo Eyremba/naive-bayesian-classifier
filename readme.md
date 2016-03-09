@@ -1,6 +1,6 @@
 # naive-bayesian-classifier
 
-Java implementation of Dr.Dobb's [Naive Bayes Classifier](http://www.drdobbs.com/architecture-and-design/naive-bayesian-text-classification/184406064).
+Java implementation of Dr.Dobb's [Naive Bayesian Text Classifier](http://www.drdobbs.com/architecture-and-design/naive-bayesian-text-classification/184406064).
 
 # example
 
